@@ -1,0 +1,1 @@
+An implementation of RaptorQ Rateless Erasure Codes as specified in [RFC 6330](http://tools.ietf.org/html/rfc6330).
